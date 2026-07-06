@@ -138,7 +138,7 @@ Flag Description
 
 📬 Support & Contact
 
-· Telegram: @Hacker6528
+· Telegram: @Ddoser
 · GitHub Issues: (Private repository – please reach out via Telegram)
 
 ---
@@ -149,4 +149,4 @@ This project is for educational and authorized testing purposes only. Redistribu
 
 ---
 
-Version 5.0 – Built with 🔥 by Hacker 101
+Version 5.0 – Built with 🔥 by Ddoser
